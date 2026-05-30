@@ -1,0 +1,20 @@
+[
+    {
+        "cantidad": 0,
+        "color": "Transparente",
+        "dimensiones": "2.44*1.65",
+        "fecha_ingreso": "2026-05-29",
+        "grosor_mm": 5,
+        "id": 1,
+        "tipo": "Transparente"
+    },
+    {
+        "cantidad": 6,
+        "color": "Bronce",
+        "dimensiones": "1.65×2.44",
+        "fecha_ingreso": "2026-05-29",
+        "grosor_mm": 5,
+        "id": 2,
+        "tipo": "Flotado"
+    }
+]
